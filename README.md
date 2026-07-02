@@ -12,7 +12,7 @@ You can interact with the live dashboard and test its functionality here:
 ---
 
 ## 🖼️ Dashboard Preview
-![Call Center Dashboard](call-center-dashboard.png)
+![Call Center Dashboard](Al-Salla1.png)
 
 ---
 
